@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make the classic Ping Pong game using Rust programming language.](https://phychic-owl.medium.com/rust-project-ping-pong-game-665766cc45ed)
 - [Blockchain in Rust: Create a blockchain using Rust programming language.](https://phychic-owl.medium.com/blockchain-in-rust-bf6f5783f8dd)
 - [Countdown Timer in Swift: A simple and efficient countdown timer in Swift.](https://phychic-owl.medium.com/countdown-timer-in-swift-a4dafee884f9)
 - [Blockchain in Swift: Simple blockchain implementation in Swift programming language](https://phychic-owl.medium.com/blockchain-by-swift-cddd4e1d02eb)

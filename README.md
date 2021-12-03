@@ -5,11 +5,11 @@
 ## I'm a Developer, Freelancer (iOS, Android) and an Adventurer !!
 
 
-- 🔭 I’m currently working on a Habit Tracker mobile app
+<!-- - 🔭 I’m currently working on a Habit Tracker mobile app -->
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on writing a "100 Days of Code" on Rust
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I play guitar 🎸, make food 🍜, and practice mixed martial arts 🥋. 
+- ⚡ Fun fact: I play guitar 🎸, make food 🍜, and practice martial arts 🥋. 
 
 ## 📫 How to reach me:
 
@@ -17,20 +17,6 @@
 [<img align="left" alt="harhvishu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="harhvishu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg" />][medium]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/swift.svg" />][medium]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xcode.svg" />][medium]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][medium]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />][medium]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg" />][medium]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />][medium]
-
-<br />
 <br />
 
 ---

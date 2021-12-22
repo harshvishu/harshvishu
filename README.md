@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on a Habit Tracker mobile app -->
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on writing a "100 Days of Code" on Rust
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play guitar 🎸, make food 🍜, and practice martial arts 🥋. 
 
 ## 📫 How to reach me:

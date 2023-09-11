@@ -2,13 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/harshvishu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fharshvishu&screen_name=harshvishu)
 
-## I'm a Developer, Freelancer (iOS, Android) and an Adventurer !!
+## I'm an iOS Developer.
 
-
-<!-- - 🔭 I’m currently working on a Habit Tracker mobile app -->
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on writing a "100 Days of Code" on Rust
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Complete at-least one open source RUST project.
 - ⚡ Fun fact: I play guitar 🎸, make food 🍜, and practice martial arts 🥋. 
 
 ## 📫 How to reach me:

@@ -2,11 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/harshvishu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fharshvishu&screen_name=harshvishu)
 
-## I'm an iOS Developer.
+## Software Engineer.
 
-- 🌱 I’m currently learning Rust
-- 🥅 2023 Goals: Complete at-least one open source RUST project.
-- ⚡ Fun fact: I play guitar 🎸, make food 🍜, and practice martial arts 🥋. 
+- 🥅 2024 Part-1: Complete WorkoutWiz (Open-Source Workout tracker app).
 
 ## 📫 How to reach me:
 

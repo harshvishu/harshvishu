@@ -2,12 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/harshvishu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fharshvishu&screen_name=harshvishu)
 
-## iOS | RUST
-
-- 🥅 2024 Part-1: Complete WorkoutWiz (Open-Source Workout tracker app).
-
-## 📫 How to reach me:
-
+## iOS Developer
 [<img align="left" alt="harhvishu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="harhvishu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="harhvishu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -19,6 +14,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking Ollama Global: Access Your Local Instance Anywhere with ngrok.]([https://phychic-owl.medium.com/rust-project-ping-pong-game-665766cc45ed](https://medium.com/@phychic-owl/taking-ollama-global-access-your-local-instance-anywhere-with-ngrok-7eda7e125472))
 - [How to make the classic Ping Pong game using Rust programming language.](https://phychic-owl.medium.com/rust-project-ping-pong-game-665766cc45ed)
 - [Blockchain in Rust: Create a blockchain using Rust programming language.](https://phychic-owl.medium.com/blockchain-in-rust-bf6f5783f8dd)
 - [Countdown Timer in Swift: A simple and efficient countdown timer in Swift.](https://phychic-owl.medium.com/countdown-timer-in-swift-a4dafee884f9)
@@ -28,13 +24,6 @@
 ➡️ [more blog posts...](https://phychic-owl.medium.com)
 
 ---
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="harshvishu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshvishu&show_icons=true&hide_border=true" />
 
 </details>
 

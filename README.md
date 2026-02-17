@@ -14,7 +14,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking Ollama Global: Access Your Local Instance Anywhere with ngrok.]([https://phychic-owl.medium.com/rust-project-ping-pong-game-665766cc45ed](https://medium.com/@phychic-owl/taking-ollama-global-access-your-local-instance-anywhere-with-ngrok-7eda7e125472))
+- [Taking Ollama Global: Access Your Local Instance Anywhere with ngrok.]([https://phychic-owl.medium.com/rust-project-ping-pong-game-665766cc45ed](https://medium.com/@phychic-owl/taking-ollama-global-access-your-local-instance-anywhere-with-ngrok-7eda7e125472)
 - [How to make the classic Ping Pong game using Rust programming language.](https://phychic-owl.medium.com/rust-project-ping-pong-game-665766cc45ed)
 - [Blockchain in Rust: Create a blockchain using Rust programming language.](https://phychic-owl.medium.com/blockchain-in-rust-bf6f5783f8dd)
 - [Countdown Timer in Swift: A simple and efficient countdown timer in Swift.](https://phychic-owl.medium.com/countdown-timer-in-swift-a4dafee884f9)
